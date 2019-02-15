@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">week2019002</string>
+    <string name="btnGit">Git</string>
+    <string name="tv_HW">Hello World!</string>
+</resources>
